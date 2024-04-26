@@ -1,0 +1,7 @@
+Seguir los pasos en orden
+
+Si estas en...
+1- backend--> usar node index.js (~/Escritorio/E-commerce/backend$ node index.js)
+2- admin--> usar npm run dev (abre el admin en donde indica el local que esta situado)
+3- frontend--> usar npm start (abre pagina http://localhost:3000/ que permite ver el index.html completo)
+
